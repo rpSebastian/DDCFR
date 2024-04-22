@@ -1,7 +1,7 @@
 # Dynamic Discounted Counterfactual Regret Minimization
 
 > Dynamic Discounted Counterfactual Regret Minimization <br>
-> Hang Xu<sup>\*</sup> , Kai Li<sup>\*,\#</sup>, Haobo Fu, Qiang Fu, Junliang Xing<sup>#</sup> <br>
+> Hang Xu<sup>\*</sup> , Kai Li<sup>\*,\#</sup>, Haobo Fu, Qiang Fu, Junliang Xing<sup>#</sup>, Jian Cheng <br>
 > ICLR 2024 (Spotlight)
 
 ## Install DDCFR
